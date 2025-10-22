@@ -1,4 +1,4 @@
-# 中山網路書店
+# 資料庫第15組 Project 1
 
 [![GitHub release](https://img.shields.io/github/release/Text-Analytics-and-Retrieval/db_class2023)](https://github.com/Text-Analytics-and-Retrieval/db_class2023/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/Text-Analytics-and-Retrieval/db_class2023)](https://github.com/Text-Analytics-and-Retrieval/db_class2023/main/LICENSE)
@@ -23,7 +23,7 @@
 
 ```bash
 # 從 Github 拉取原始碼
-git clone https://github.com/Text-Analytics-and-Retrieval/DB_CLASS_2025.git
+git clone [https://github.com/TheFl1y/DateBase_Project_G15.git](https://github.com/TheFl1y/DateBase_Project_G15.git)
 cd DB_CLASS_2025/
 ```
 
